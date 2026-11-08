@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="JLPT 悉尼考位满了，怎么办？">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1a33"/>
+      <stop offset="1" stop-color="#1d3158"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#3d5a8f" stroke-width="7" opacity="0.45">
+    <path d="M 930 630 Q 1000 420 1070 630"/>
+    <path d="M 990 630 Q 1070 390 1150 630"/>
+    <path d="M 1050 630 Q 1145 360 1240 630"/>
+  </g>
+  <g opacity="0.16" fill="#8fa8d6">
+    <rect x="80" y="100" width="300" height="14" rx="7"/>
+    <rect x="80" y="132" width="220" height="14" rx="7"/>
+    <rect x="80" y="164" width="265" height="14" rx="7"/>
+    <rect x="80" y="196" width="180" height="14" rx="7"/>
+  </g>
+  <g transform="rotate(-9 770 205)">
+    <rect x="650" y="150" width="240" height="110" fill="none" stroke="#e05252" stroke-width="7" rx="12"/>
+    <text x="770" y="224" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="bold" fill="#e05252" text-anchor="middle" letter-spacing="6">FULL</text>
+  </g>
+  <text x="80" y="345" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="66" font-weight="bold" fill="#ffffff">JLPT 悉尼考位满了，</text>
+  <text x="80" y="428" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="66" font-weight="bold" fill="#ffffff">怎么办？</text>
+  <text x="80" y="492" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="27" fill="#9db4dd">报名时间线 · 三条备选路 · 下一轮提前做什么</text>
+  <text x="80" y="572" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="19" fill="#6c85b5">Ozlin Info Editorial Team · 更新：2026-11-08</text>
+</svg>

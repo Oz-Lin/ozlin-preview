@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-label="2026年12月JLPT澳洲场时间线">
+  <rect width="1100" height="430" rx="14" fill="#f5f7fb"/>
+  <text x="60" y="70" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="30" font-weight="bold" fill="#22335c">2026 年 12 月场：从报名到考完，就这几步</text>
+  <line x1="90" y1="220" x2="1010" y2="220" stroke="#c3cfe4" stroke-width="4"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <circle cx="130" cy="220" r="11" fill="#2f6fed"/>
+    <text x="130" y="180" font-size="21" font-weight="bold" fill="#22335c" text-anchor="middle">8 月 28 日</text>
+    <text x="130" y="258" font-size="17" fill="#44557c" text-anchor="middle">报名开放</text>
+    <text x="130" y="284" font-size="15" fill="#7385a8" text-anchor="middle">9:00 AEST 起</text>
+    <circle cx="380" cy="220" r="11" fill="#e05252"/>
+    <text x="380" y="180" font-size="21" font-weight="bold" fill="#22335c" text-anchor="middle">9 月 10 日</text>
+    <text x="380" y="258" font-size="17" fill="#44557c" text-anchor="middle">报名截止</text>
+    <text x="380" y="284" font-size="15" fill="#c0392b" text-anchor="middle">或提前满员</text>
+    <circle cx="630" cy="220" r="11" fill="#7a86b8"/>
+    <text x="630" y="180" font-size="21" font-weight="bold" fill="#22335c" text-anchor="middle">11 月</text>
+    <text x="630" y="258" font-size="17" fill="#44557c" text-anchor="middle">准考证寄出</text>
+    <text x="630" y="284" font-size="15" fill="#7385a8" text-anchor="middle">考场教室以此为准</text>
+    <circle cx="860" cy="220" r="13" fill="#1c8a5a"/>
+    <text x="860" y="180" font-size="21" font-weight="bold" fill="#22335c" text-anchor="middle">12 月 6 日</text>
+    <text x="860" y="258" font-size="17" fill="#44557c" text-anchor="middle">考试日（周日）</text>
+    <text x="860" y="284" font-size="15" fill="#7385a8" text-anchor="middle">全球同一天</text>
+  </g>
+  <text x="60" y="380" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="15" fill="#8b99b8">来源：The Japan Foundation, Sydney / UNSW 考点页 · 核对日期 2026-11-08 · 时间以官方公告为准</text>
+</svg>

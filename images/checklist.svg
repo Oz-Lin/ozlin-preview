@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-label="下一轮报名前要做的五件事">
+  <rect width="1100" height="620" rx="14" fill="#0e1a33"/>
+  <text x="60" y="70" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">下一轮开抢前，先把这 5 件事做完</text>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+    <g>
+      <rect x="60" y="120" width="480" height="88" rx="12" fill="#1d3158"/>
+      <circle cx="105" cy="164" r="22" fill="#2f6fed"/>
+      <text x="105" y="172" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+      <text x="145" y="156" font-size="19" font-weight="bold" fill="#fff">盯住 JF Sydney 的 JLPT 页面</text>
+      <text x="145" y="186" font-size="15" fill="#9db4dd">报名链接从这里发，别信二手信息</text>
+    </g>
+    <g>
+      <rect x="60" y="228" width="480" height="88" rx="12" fill="#1d3158"/>
+      <circle cx="105" cy="272" r="22" fill="#2f6fed"/>
+      <text x="105" y="280" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+      <text x="145" y="264" font-size="19" font-weight="bold" fill="#fff">8 月下旬设两道提醒</text>
+      <text x="145" y="294" font-size="15" fill="#9db4dd">开放日 9 点开抢；截止前 48 小时再查一次</text>
+    </g>
+    <g>
+      <rect x="60" y="336" width="480" height="88" rx="12" fill="#1d3158"/>
+      <circle cx="105" cy="380" r="22" fill="#2f6fed"/>
+      <text x="105" y="388" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+      <text x="145" y="372" font-size="19" font-weight="bold" fill="#fff">提前注册 Eventbrite 账号</text>
+      <text x="145" y="402" font-size="15" fill="#9db4dd">报名走票务平台，现注册会浪费黄金几分钟</text>
+    </g>
+    <g>
+      <rect x="560" y="120" width="480" height="88" rx="12" fill="#1d3158"/>
+      <circle cx="605" cy="164" r="22" fill="#1c8a5a"/>
+      <text x="605" y="172" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+      <text x="645" y="156" font-size="19" font-weight="bold" fill="#fff">想好级别 + 备选城市</text>
+      <text x="645" y="186" font-size="15" fill="#9db4dd">主选悉尼，布里斯班/珀斯做 plan B</text>
+    </g>
+    <g>
+      <rect x="560" y="228" width="480" height="88" rx="12" fill="#1d3158"/>
+      <circle cx="605" cy="272" r="22" fill="#1c8a5a"/>
+      <text x="605" y="280" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+      <text x="645" y="264" font-size="19" font-weight="bold" fill="#fff">用官方样题保持手感</text>
+      <text x="645" y="294" font-size="15" fill="#9db4dd">空档期最怕断档，节奏别松</text>
+    </g>
+    <rect x="560" y="336" width="480" height="88" rx="12" fill="#22335c"/>
+    <text x="645" y="372" font-size="17" fill="#cdd9f2">口袋清单就这 5 条：页面、提醒、</text>
+    <text x="645" y="402" font-size="17" fill="#cdd9f2">账号、备选、手感。做完再等 8 月。</text>
+    <text x="60" y="520" font-size="16" fill="#6c85b5">2027 年 12 月场预计 2027 年 8 月下旬开放报名（往年节奏），以官方公告为准。</text>
+    <text x="60" y="560" font-size="15" fill="#516a9c">核对日期 2026-11-08 · 来源见文章文末</text>
+  </g>
+</svg>
